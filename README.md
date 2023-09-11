@@ -36,14 +36,6 @@ Flask: Used as the backend server framework to handle user requests and serve pr
 
 HTML, CSS & JS: These web technologies are used to create an intuitive and interactive user interface.
 
-#### Architecture for the application
-
-<img  src="images/1.png">
-
-#### Architecture for deployment
-
-<img src="images/2.png">
-
 ---
 
 The dataset used in this project is from Kaggle which is the [Bengaluru House Price Data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data).
